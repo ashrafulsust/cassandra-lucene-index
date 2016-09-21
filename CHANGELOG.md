@@ -1,5 +1,9 @@
 # Changelog
 
+## 3.0.9.0 (Upcoming)
+
+* Upgrade to Apache Cassandra 3.0.9
+
 ## 3.0.8.2 (August 29, 2016)
 
 * Allow associativity in search-time geospatial transformations
